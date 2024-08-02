@@ -1,0 +1,11 @@
+{
+  "displayName": "HungNT: vHierarchy",
+  "name": "com.hungnt.vhierarchy",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "author": {
+    "name": "Nguyen Tien Hung",
+    "email": "ngtienhungg.work@gmail.com"
+  },
+  "description": "Organize your hierarchy and streamline your workflow with simple quality-of-life improvements"
+}
