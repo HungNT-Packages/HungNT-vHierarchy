@@ -1,11 +1,12 @@
 {
-  "displayName": "HungNT: vHierarchy",
-  "name": "com.hungnt.vhierarchy",
-  "version": "1.0.0",
+  "name": "com.hungnt.thirdparty.vhierarchy",
+  "displayName": "HungNT 3rd-party: vHierarchy",
+  "version": "1.0.21",
   "unity": "2021.1",
   "author": {
-    "name": "Nguyen Tien Hung",
-    "email": "ngtienhungg.work@gmail.com"
+    "name": "HungNT",
+    "url": "https://github.com/HungNT-UPM"
   },
-  "description": "Organize your hierarchy and streamline your workflow with simple quality-of-life improvements"
+  "description": "Organize your hierarchy with simple quality-of-life improvements.",
+  "documentationUrl": "https://assetstore.unity.com/packages/tools/utilities/vhierarchy-249759"
 }
